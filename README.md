@@ -1,6 +1,6 @@
 ### Hello! I am Almen Ng! 👋
 
-I am a third year Software Engineering and Management Student. Currently searching for coop/internship opportunities for Summer 2021!
+I am a third year Software Engineering and Management Student at McMaster University. Currently searching for coop/internship opportunities for Summer 2021!
 <!--
 **almen-ng/almen-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
