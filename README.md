@@ -1,6 +1,6 @@
 # Hi! I'm Almen Ng! 👋
 
-I am a third year Software Engineering and Management Student at McMaster University. Currently searching for coop/internship opportunities for Summer 2021!
+I am a third year Software Engineering and Management Student at McMaster University.
 
 ### Connect With Me
 [![Website Badge](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://almen-ng.github.io/)](https://almen-ng.github.io/)
