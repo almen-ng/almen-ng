@@ -1,6 +1,6 @@
 # Hi! I'm Almen Ng! 👋
 
-I am a fourth year Software Engineering and Management Student at McMaster University currently on co-op as a Software Quality Engineering Intern at Red Hat Canada working on their Advanced Cluster Management product. 
+I am a fourth year Software Engineering and Management Student at McMaster University who just finished a co-op as a Software Quality Engineering Intern at Red Hat Canada working on their Advanced Cluster Management product. 
 
 ### Connect With Me
 [![Website Badge](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://almen-ng.github.io/)](https://almen-ng.github.io/)
